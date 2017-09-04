@@ -1,3 +1,4 @@
 ## Summer-Internship-2017
-__This is my task __
+*This is my task*
+
 Link of my [Trello Board](https://trello.com/b/yyotKLKC)
